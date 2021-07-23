@@ -1,2 +1,5 @@
-# ferese
-Ferese (window: Yoruba) is an experimental Game Engine
+# Ferese Engine
+
+## About
+
+Ferese is an experimental Game Engine written in C++.
